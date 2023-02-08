@@ -1,0 +1,47 @@
+id: dc5e09df1a774560a9ebebb88ff7f6d1
+annotation_type: index
+revision: '00001'
+annotations:
+  9849961db1494b06bb7a693bc4d323a2:
+    base: 4B66.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 18
+    - title: Homage
+      span:
+        start: 19
+        end: 44
+    - title: Short §1
+      span:
+        start: 45
+        end: 102
+    - title: Short §2
+      span:
+        start: 103
+        end: 175
+    - title: Short §3
+      span:
+        start: 176
+        end: 188
+    - title: Short §4
+      span:
+        start: 189
+        end: 278
+    - title: Short §5
+      span:
+        start: 279
+        end: 324
+    - title: Short §6
+      span:
+        start: 325
+        end: 403
+    - title: Short §7
+      span:
+        start: 404
+        end: 496
+    - title: Colophon
+      span:
+        start: 497
+        end: 512
